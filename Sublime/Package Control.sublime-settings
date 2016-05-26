@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"DocBlockr",
+		"JSCS-Formatter",
+		"Monokai JSON+",
+		"Package Control",
+		"Pretty JSON",
+		"SnippetMaker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

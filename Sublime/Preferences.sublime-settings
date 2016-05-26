@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
+	"font_face": "Anonymous Pro",
+	"font_options":
+	[
+		"bold"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"soda_folder_icons": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ensure_newline_at_eof_on_save": true
+}

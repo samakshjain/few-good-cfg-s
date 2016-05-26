@@ -1,0 +1,12 @@
+
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+console.log("\n-----------> ${1:message}");
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>slog</tabTrigger>
+  <description>Snippet to log to server</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js, meta.block.js, meta.block.js</scope>
+</snippet>
