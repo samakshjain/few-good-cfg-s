@@ -118,7 +118,6 @@ export GOOGLE_APPLICATION_CREDENTIALS=~/service_auth.json
 alias add='git add -p'
 ssh-add -A > /dev/null
 
-eval "$(pyenv init -)"
 alias export='PATH=/usr/local/opt/python/libexec/bin:$HOME/.pyenv/shims:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/VJ/softwares/postgres/bin:/usr/local/go/bin:/usr/local/mysql/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:$HOME/.pyenv/bin'
 
 export PYTHONDONTWRITEBYTECODE=1
