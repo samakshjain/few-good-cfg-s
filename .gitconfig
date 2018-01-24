@@ -1,0 +1,12 @@
+[alias]
+	s = status --short
+	co = checkout
+	stshow = stash show -p
+	stpop = stash pop
+	diffs = diff --staged
+[user]
+	name = Samaksh
+	email = samaksh@getvokal.com
+[core]
+	excludesfile = /Users/samaksh/.gl_gitignore
+	editor = /usr/local/bin/vim
