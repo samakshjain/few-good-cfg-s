@@ -1,0 +1,44 @@
+{
+  "window.zoomLevel": 0,
+  "editor.fontSize": 13,
+  "editor.renderWhitespace": "boundary",
+  "editor.lineNumbers": "relative",
+  "editor.rulers": [
+    180,
+    120
+  ],
+  "editor.insertSpaces": true,
+  "[elixir]": {
+    "editor.tabSize": 2
+  },
+  "editor.wordWrapColumn": 119,
+  "editor.minimap.renderCharacters": false,
+  "editor.cursorBlinking": "phase",
+  "editor.dragAndDrop": false,
+  "python.pythonPath": "/Users/samaksh/.virtualenvs/suggest/bin/python",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.pyc": true
+  },
+  "editor.selectionHighlight": true,
+  "editor.formatOnSave": true,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "[git-commit]": {
+    "editor.rulers": [120]
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.colorTheme": "Framer Dark",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "python.linting.pep8Path": "pycodestyle",
+  "files.autoSave": "off",
+  "python.formatting.autopep8Path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/autopep8",
+  "explorer.confirmDragAndDrop": false,
+  "vim.disableExtension": false,
+  "editor.renderLineHighlight": "gutter",
+  "files.trimTrailingWhitespace": true
+}
+
